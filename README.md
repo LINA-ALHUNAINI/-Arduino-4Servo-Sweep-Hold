@@ -45,7 +45,8 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 - Note: the Servo library drives the motors through a hardware timer interrupt independent of `loop()`, so a single `write(90)` call is technically enough to hold position — the `while(true)` here is an explicit, easy-to-read way to freeze the program in the hold state. Worth keeping in mind if the project later grows to include more sensors or outputs, since nothing after this point in `loop()` would ever run again.
 
 ## 🎥 Demo
-<video src="Sweep_Hold_Simulation.mp4" controls width="100%"></video>
+[🎥 Watch Simulation Video (Click to View)](Sweep_Hold_Simulation.mp4)
+
 ## 🧪 Testing in Tinkercad
 
 1. Build the circuit per the wiring table above.
