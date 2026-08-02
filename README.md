@@ -45,8 +45,7 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 - Note: the Servo library drives the motors through a hardware timer interrupt independent of `loop()`, so a single `write(90)` call is technically enough to hold position — the `while(true)` here is an explicit, easy-to-read way to freeze the program in the hold state. Worth keeping in mind if the project later grows to include more sensors or outputs, since nothing after this point in `loop()` would ever run again.
 
 ## 🎥 Demo
-
-*Drag and drop your video file here instead of this line to embed the simulation demo.*
+https://github.com/LINA-ALHUAINI/-Arduino-4Servo-Sweep-Hold/raw/main/Sweep_Hold_Simulation.mp4
 
 ## 🧪 Testing in Tinkercad
 
@@ -112,8 +111,7 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 
 ## 🎥 العرض التوضيحي (Demo)
 
-*اسحبي وأفلتي ملف الفيديو الخاص بكِ هنا بدلاً من هذا السطر لتظهر المحاكاة مضمّنة.*
-
+](https://github.com/LINA-ALHUAINI/-Arduino-4Servo-Sweep-Hold/raw/main/Sweep_Hold_Simulation.mp4)
 ## 🧪 التجربة على Tinkercad
 
 1. بناء الدارة وفق جدول التوصيل أعلاه.
