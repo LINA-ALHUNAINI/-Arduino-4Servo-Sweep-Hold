@@ -59,7 +59,7 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 - `four_servo_sweep_hold.ino` — Arduino sketch
 - `README.md` — this file
 - Demo video showing the sweep-then-hold behavior in simulation
-- (optional) circuit screenshot — only needed if you keep the embedded image link above; remove that line if you don’t add the file
+
 
 -----
 
