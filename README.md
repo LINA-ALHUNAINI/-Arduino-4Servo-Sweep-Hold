@@ -111,7 +111,10 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 
 ## 🎥 العرض التوضيحي (Demo)
 
-<video src="Sweep_Hold_Simulation.mp4" controls width="100%"></video>## 🧪 التجربة على Tinkercad
+[🎥 مشاهدة فيديو المحاكاة (اضغط هنا للعرض)](Sweep_Hold_Simulation.mp4)
+
+
+## 🧪 التجربة على Tinkercad
 
 1. بناء الدارة وفق جدول التوصيل أعلاه.
 1. فتح قائمة **Code ← Text**، ولصق كود `four_servo_sweep_hold.ino`.
@@ -123,4 +126,3 @@ The sketch tracks elapsed time with `millis()` to check the 2-second boundary be
 - `four_servo_sweep_hold.ino` — كود الأردوينو
 - `README.md` — هذا الملف
 - فيديو يوضح سلوك Sweep ثم Hold أثناء المحاكاة
-- (اختياري) صورة من الدارة — تلزم فقط إذا أبقيتِ رابط الصورة المضمّن أعلاه؛ احذفي ذلك السطر إذا لم تضيفي الملف
